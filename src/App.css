@@ -1,0 +1,44 @@
+body{
+    background: #000;
+}
+.App{
+    margin: 3% auto;
+    max-width: 50%;
+}
+.box{
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    display: grid;
+    place-content: center;
+    border: 1px solid black;
+    margin-bottom: 15px;
+    background: white;
+}
+
+input,button{
+    padding: 13px;
+    border-radius: 30px;
+    font-size: 100%;
+}
+
+.main-box{
+    border-radius: 9px !important; 
+}
+
+form *{
+    margin: 40px 20px;
+}
+form{
+    display: flex;
+    justify-content: center;
+}
+.lines-container > div{
+    display: flex;
+    flex-direction:  column;
+    align-items: center;
+}
+.lines-container{
+    display: flex;
+    justify-content: space-around;
+}
