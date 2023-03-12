@@ -7,4 +7,4 @@ Code Challenge w/ React.js:
 - We have an input to add a customer with amount of items
 > Our duty is to add him in the line that has the least number of items holded by the customer.
 
-## Challenge Demo:
+## Challenge Demo: https://codechallengedemo.netlify.app/
